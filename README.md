@@ -13,9 +13,11 @@
 ---
 
 ### 💼 Work Experience
+
+**📊 Java Programming Intern — Vault of Codes** *(Sept 2025 – Oct 2025)*  
+
 **☁️ Cloud and AI Intern — Edunet Foundation & IBM** *(Jul 2025 – Aug 2025)* 
 
-**📊 Data Science Intern — Prodigy InfoTech** *(Feb 2025 – Mar 2025)*  
 
 ---
 
